@@ -1,0 +1,5 @@
+1)Add a url to the data object
+
+2)Bind the url to an anchor tag’s href attribute
+
+address of problem:https://www.vuemastery.com/courses/intro-to-vue-3/attribute-binding-vue3/
