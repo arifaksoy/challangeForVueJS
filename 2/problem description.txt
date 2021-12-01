@@ -1,0 +1,5 @@
+Add an onSale Boolean to the data object.
+
+Use onSale to conditionally render a p tag that says “On Sale,” whenever onSale is true.
+
+address of problem:https://www.vuemastery.com/courses/intro-to-vue-3/attribute-binding-vue3/
